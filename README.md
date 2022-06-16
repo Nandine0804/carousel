@@ -1,2 +1,2 @@
 # carousel
-carousel using HTML,CSS,JAVASCRIPT
+A Simple Slideshow of Images using HTML,CSS and Javascript.
